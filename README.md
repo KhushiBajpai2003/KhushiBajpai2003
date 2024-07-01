@@ -14,10 +14,8 @@ I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transf
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ## GitHub Stats
@@ -31,8 +29,6 @@ I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transf
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/khushi-bajpai-763605253/)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://instagram.com/yourprofile)
 
 ## Recent Projects
 - [TrackMate](https://github.com/KhushiBajpai2003/TrackMate): Developed a mobile application for real-time luggage tracking, integrating advanced software and hardware components. Implemented Google Maps for precise location visualization.
