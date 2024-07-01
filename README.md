@@ -30,6 +30,11 @@ I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transf
 
 - Total Questions Solved: ![LeetCode Questions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FKhushi-Bajpai&query=totalSolved&label=LeetCode%20Questions&style=flat&color=success&logo=leetcode)
 
+## 🏆 Achievements
+
+- **Research Paper**: Presented "Plant Fettle Detector" at INOCON 2024, selected for publication in a Scopus-indexed journal, and published in IEEE Xplore ([Link](https://ieeexplore.ieee.org/abstract/document/10512262/)).
+- **Hackathon**: Participated in the Eureka Challenge 2.0, developing innovative solutions for mobile screen projection and control.
+  
 ## Resume
 [View My Resume](https://github.com/KhushiBajpai2003/KhushiBajpai2003/blob/main/Khushi%20Bajpai_Resume%202024.pdf)
 
