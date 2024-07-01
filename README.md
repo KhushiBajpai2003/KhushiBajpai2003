@@ -7,7 +7,6 @@ I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transf
 - 🌱 I’m currently learning Machine Learning & Deep Learning.
 - 👯 I’m looking to collaborate on open source projects related to data science and Android development.
 - 💬 Ask me about Android Development, Machine Learning, and Data Analytics.
-- 📫 How to reach me: bajpaikv13@gmail.com
 - ⚡ Fun fact: I love integrating hardware and software to create innovative solutions.
 
 ## Technologies & Tools
@@ -28,10 +27,8 @@ I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transf
 ## LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Khushi-Bajpai?ext=heatmap)
 
-## HackerRank Profile
-![HackerRank Stats](https://github-readme-stats.vercel.app/api/pin/?username=bajpaikv&repo=HackerRank&theme=dark)
-
 - Total Questions Solved: ![LeetCode Questions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FKhushi-Bajpai&query=totalSolved&label=LeetCode%20Questions&style=flat&color=success&logo=leetcode)
+
 
 ## 🏆 Achievements
 
@@ -42,7 +39,10 @@ I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transf
 [View My Resume](https://github.com/KhushiBajpai2003/KhushiBajpai2003/blob/main/Khushi%20Bajpai_Resume%202024.pdf)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/khushi-bajpai-763605253/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/KhushiBajpai2003)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bajpaikv13@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Khushi-Bajpai/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/bajpaikv)
 
 ## Recent Projects
 - [TrackMate](https://github.com/KhushiBajpai2003/TrackMate): Developed a mobile application for real-time luggage tracking, integrating advanced software and hardware components. Implemented Google Maps for precise location visualization.
