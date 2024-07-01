@@ -17,6 +17,18 @@ I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transf
 |---|---|---|
 | ![Python Logo](https://img.icons8.com/color/48/000000/python.png) | ![SQL Logo](https://img.icons8.com/color/48/000000/sql.png) | ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) |
 
+### Frameworks:
+
+| TensorFlow | Keras | Scikit-Learn |
+|---|---|---|
+| <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"> |
+
+### Tools:
+
+| VS Code | Anaconda | Tableau | IntelliJ |
+|---|---|---|---|
+| <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="48" height="48"> |
+
 ## 📊 GitHub Stats
 ![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiBajpai2003&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 ![Khushi's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=KhushiBajpai2003&theme=radical)
