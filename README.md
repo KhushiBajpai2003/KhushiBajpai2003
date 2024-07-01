@@ -18,10 +18,9 @@ I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transf
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-## GitHub Stats
-
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/KhushiBajpai2003&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-![Khushi's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/KhushiBajpai2003&theme=radical)
+## 📊 GitHub Stats
+![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiBajpai2003&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Khushi's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=KhushiBajpai2003&theme=radical)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiBajpai2003&layout=compact&theme=dark)
