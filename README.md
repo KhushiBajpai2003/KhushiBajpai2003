@@ -28,6 +28,9 @@ I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transf
 ## LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Khushi-Bajpai?ext=heatmap)
 
+## HackerRank Profile
+![HackerRank Stats](https://github-readme-stats.vercel.app/api/pin/?username=bajpaikv&repo=HackerRank&theme=dark)
+
 - Total Questions Solved: ![LeetCode Questions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FKhushi-Bajpai&query=totalSolved&label=LeetCode%20Questions&style=flat&color=success&logo=leetcode)
 
 ## 🏆 Achievements
