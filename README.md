@@ -10,11 +10,12 @@ I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transf
 - ⚡ Fun fact: I love integrating hardware and software to create innovative solutions.
 
 ## Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+
+### Languages:
+
+| Python | SQL | Java |
+|---|---|---|
+| ![Python Logo](https://img.icons8.com/color/48/000000/python.png) | ![SQL Logo](https://img.icons8.com/color/48/000000/sql.png) | ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) |
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ## 📊 GitHub Stats
