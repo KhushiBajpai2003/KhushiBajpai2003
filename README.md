@@ -3,7 +3,7 @@
 I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transforming data into actionable insights.
 
 ## About Me
-- 💻 I’m currently working on [TrackMate](https://github.com/KhushiBajpai2003/TrackMate) - a mobile application for real-time luggage tracking.
+
 - 🌱 I’m currently learning Machine Learning & Deep Learning.
 - 👯 I’m looking to collaborate on open source projects related to data science and Android development.
 - 💬 Ask me about Android Development, Machine Learning, and Data Analytics.
