@@ -20,6 +20,7 @@ I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transf
 ## 📊 GitHub Stats
 ![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiBajpai2003&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 ![Khushi's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=KhushiBajpai2003&theme=radical)
+![Pull Requests](https://img.shields.io/github/issues-pr/KhushiBajpai2003/KhushiBajpai2003)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiBajpai2003&layout=compact&theme=dark)
