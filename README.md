@@ -16,7 +16,6 @@ I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transf
 | Python | SQL | Java |
 |---|---|---|
 | ![Python Logo](https://img.icons8.com/color/48/000000/python.png) | ![SQL Logo](https://img.icons8.com/color/48/000000/sql.png) | ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) |
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ## 📊 GitHub Stats
 ![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiBajpai2003&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
