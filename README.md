@@ -30,7 +30,7 @@ I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transf
 | <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="48" height="48"> |
 
 ## 📊 GitHub Stats
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiBajpai2003&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiBajpai2003&show_icons=true&count_private=true&theme=radical)
 ![Khushi's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=KhushiBajpai2003&theme=radical)
 
 
