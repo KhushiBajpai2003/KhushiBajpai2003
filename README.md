@@ -60,7 +60,7 @@ I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transf
 ## Recent Projects
 - [TrackMate](https://github.com/KhushiBajpai2003/TrackMate): Developed a mobile application for real-time luggage tracking, integrating advanced software and hardware components. Implemented Google Maps for precise location visualization.
 - [Plant Fettle Detector](https://github.com/KhushiBajpai2003/Plant-Fettle-Detector-Website-): Developed a CNN-based system for real-time fruit quality tracking and plant disease detection, enhancing precision agriculture. Published a [research paper](https://scholar.google.co.in/scholar_url?url=https://ieeexplore.ieee.org/abstract/document/10512262/&hl=en&sa=X&ei=0mNgZqS7BPKJ6rQPoaWhkAQ&scisig=AFWwaeam_XDJI12_4F6Jras_vZky&oi=scholarr).
-- [Stock Analysis](https://github.com/KhushiBajpai2003/StockAnalysis)(https://github.com/KhushiBajpai2003/Stock-Analysis-Of-Microsoft-Corporation): Conducted comprehensive stock analysis of Microsoft Corporation using Tableau, visualizing key financial trends and insights.
+- [Stock Analysis](https://github.com/KhushiBajpai2003/Stock-Analysis-Of-Microsoft-Corporation): Conducted comprehensive stock analysis of Microsoft Corporation using Tableau, visualizing key financial trends and insights.
 
 ## Certifications
 - [Fundamentals of Deep Learning by NVIDIA](https://courses.nvidia.com/certificates/00a2ce405a844baeabd832697c11d108/)
