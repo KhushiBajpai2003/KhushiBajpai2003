@@ -52,7 +52,7 @@ I'm Khushi Bajpai, an enthusiastic data science engineer passionate about transf
 [View My Resume](https://github.com/KhushiBajpai2003/KhushiBajpai2003/blob/main/Khushi%20Bajpai_Resume%202024.pdf)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/KhushiBajpai2003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-bajpai-763605253/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bajpaikv13@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Khushi-Bajpai/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/bajpaikv)
